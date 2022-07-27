@@ -1,0 +1,196 @@
+[
+    {
+        "id":1,
+        "image":"https://dfcdn.defacto.com.tr/304/M7676AZ_22SP_BE399_04_01.jpg",
+        "category":"Tişört",
+        "gender": "Erkek",
+        "color":"Mavi",
+        "size": "Large"
+    },
+    {
+        "id":2,
+        "image":"https://dfcdn.defacto.com.tr/7/M7676AZ_22SP_BK27_01_01.jpg",
+        "category":"Tişört",
+        "gender": "Erkek",
+        "color":"Siyah",
+        "size": "Small"
+    },
+    {
+        "id":3,
+        "image":"https://dfcdn.defacto.com.tr/7/X2719AZ_22SM_GR253_01_02.jpg",
+        "category":"Tişört",
+        "gender": "Erkek",
+        "color":"Gri",
+        "size": "Medium"
+    },
+    {
+        "id":4,
+        "image":"https://dfcdn.defacto.com.tr/7/T1052AZ_22SP_BK27_01_06.jpg",
+        "category":"Pantolon",
+        "gender": "Erkek",
+        "color":"Siyah",
+        "size": "Medium"
+    },
+    {
+        "id":5,
+        "image":"https://dfcdn.defacto.com.tr/7/S9877AZ_22SP_KH405_01_01.jpg",
+        "category":"Pantolon",
+        "gender": "Erkek",
+        "color":"Yeşil",
+        "size": "Medium"
+    },
+    {
+        "id":6,
+        "image":"https://dfcdn.defacto.com.tr/7/X6778AZ_22HS_ER30_01_03.jpg",
+        "category":"Pantolon",
+        "gender": "Erkek",
+        "color":"Beyaz",
+        "size": "Medium"
+    },
+    {
+        "id":7,
+        "image":"https://dfcdn.defacto.com.tr/7/T5092AZ_22SM_ER105_03_01.jpg",
+        "category":"Tişört",
+        "gender": "Kadın",
+        "color":"Beyaz",
+        "size": "Medium"
+    },
+    {
+        "id":8,
+        "image":"https://dfcdn.defacto.com.tr/7/T5092AZ_22SM_PN46_01_01.jpg",
+        "category":"Tişört",
+        "gender": "Kadın",
+        "color":"Pembe",
+        "size": "Medium"
+    },
+    {
+        "id":9,
+        "image":"https://dfcdn.defacto.com.tr/7/T5092AZ_22SM_BK27_01_01.jpg",
+        "category":"Tişört",
+        "gender": "Kadın",
+        "color":"Siyah",
+        "size": "Medium"
+    },
+    {
+        "id":10,
+        "image":"https://dfcdn.defacto.com.tr/7/Y9714AZ_22SM_BE124_01_01.jpg",
+        "category":"Pantolon",
+        "gender": "Kadın",
+        "color":"Mavi",
+        "size": "Medium"
+    },
+    {
+        "id":11,
+        "image":"https://dfcdn.defacto.com.tr/7/Y9717AZ_22SM_GN572_01_01.jpg",
+        "category":"Pantolon",
+        "gender": "Kadın",
+        "color":"Yeşil",
+        "size": "Medium"
+    },
+    {
+        "id":12,
+        "image":"https://dfcdn.defacto.com.tr/7/X8469AZ_22AU_BK27_01_01.jpg",
+        "category":"Pantolon",
+        "gender": "Kadın",
+        "color":"Siyah",
+        "size": "Medium"
+    },
+    {
+        "id":13,
+        "image":"https://dfcdn.defacto.com.tr/7/K1689A6_22SP_BE299_01_02.jpg",
+        "category":"Tişört",
+        "gender": "Erkek Çocuk",
+        "color":"Mavi",
+        "size": "Medium"
+    },
+    {
+        "id":14,
+        "image":"https://dfcdn.defacto.com.tr/7/K1689A6_22SP_PN428_01_04.jpg",
+        "category":"Tişört",
+        "gender": "Erkek Çocuk",
+        "color":"Pembe",
+        "size": "Medium"
+    },
+    {
+        "id":15,
+        "image":"https://dfcdn.defacto.com.tr/7/K1689A6_22SP_BG221_01_02.jpg",
+        "category":"Tişört",
+        "gender": "Erkek Çocuk",
+        "color":"Bej",
+        "size": "Medium"
+    },
+    {
+        "id":16,
+        "image":"https://dfcdn.defacto.com.tr/7/X4224A6_22SM_BK27_01_01.jpg",
+        "category":"Pantolon",
+        "gender": "Erkek Çocuk",
+        "color":"Siyah",
+        "size": "Medium"
+    },
+    {
+        "id":17,
+        "image":"https://dfcdn.defacto.com.tr/7/W8087A6_22SM_NM39_01_02.jpg",
+        "category":"Pantolon",
+        "gender": "Erkek Çocuk",
+        "color":"Mavi",
+        "size": "Medium"
+    },
+    {
+        "id":18,
+        "image":"https://dfcdn.defacto.com.tr/7/W7449A6_22SP_AR202_01_02.jpg",
+        "category":"Pantolon",
+        "gender": "Erkek Çocuk",
+        "color":"Gri",
+        "size": "Medium"
+    },
+    {
+        "id":19,
+        "image":"https://dfcdn.defacto.com.tr/7/W7247A6_22SP_BE394_01_02.jpg",
+        "category":"Pantolon",
+        "gender": "Kız Çocuk",
+        "color":"Mavi",
+        "size": "Medium"
+    },
+    {
+        "id":20,
+        "image":"https://dfcdn.defacto.com.tr/7/W6863A6_22SP_NM65_01_02.jpg",
+        "category":"Pantolon",
+        "gender": "Kız Çocuk",
+        "color":"Yeşil",
+        "size": "Medium"
+    },
+    {
+        "id":21,
+        "image":"https://dfcdn.defacto.com.tr/7/W7143A6_22SP_OG76_01_02.jpg",
+        "category":"Pantolon",
+        "gender": "Kız Çocuk",
+        "color":"Turuncu",
+        "size": "Medium"
+    },
+    {
+        "id":22,
+        "image":"https://dfcdn.defacto.com.tr/7/X7380A6_22HS_PN125_01_02.jpg",
+        "category":"Tişört",
+        "gender": "Kız Çocuk",
+        "color":"Pembe",
+        "size": "Medium"
+    },
+    {
+        "id":23,
+        "image":"https://dfcdn.defacto.com.tr/7/Y3953A6_22SM_TR323_01_02.jpg",
+        "category":"Tişört",
+        "gender": "Kız Çocuk",
+        "color":"Turkuaz",
+        "size": "Medium"
+    },
+    {
+        "id":24,
+        "image":"https://dfcdn.defacto.com.tr/7/X7379A6_22HS_WT34_01_02.jpg",
+        "category":"Tişört",
+        "gender": "Kız Çocuk",
+        "color":"Beyaz",
+        "size": "Medium"
+    }
+
+
+]
