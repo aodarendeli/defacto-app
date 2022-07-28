@@ -1,21 +1,14 @@
-import React, { useState } from "react";
-import Filter from "./components/Filter";
-import logo from './assets/logo.png'
-
-
+import React, {useState} from 'react'
+import Filter from './components/Filter'
+import Footer from './components/Footer'
+import Navbar from './components/Navbar'
 function App() {
   return (
-    <div className="container">
-      <div className="row">
-        <div className="col">
-          <img src={logo} style={{width:"50px" , height: "50px"}}/>
-           <Filter />
-        </div>
-      </div>
-    </div>
-
-   
-  );
+    <>
+      <Navbar />
+      <Filter />
+      <Footer />
+    </>
+  )
 }
-
-export default App;
+export default App
